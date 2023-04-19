@@ -1,0 +1,31 @@
+@import './base.css';
+
+.container{
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+a,
+.green {
+  text-decoration: none;
+  /* color: hsla(160, 100%, 37%, 1); */
+  transition: 0.4s;
+  color: #fff;
+}
+
+a:hover {
+  color: green;
+}
+ul {
+  list-style: none;
+}
+.title {
+  font-weight: 800;
+  font-size: 56px;
+  margin-bottom: 25px;
+  margin-top: 0;
+}
+
+section{
+  padding: 40px 0;
+}
