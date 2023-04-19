@@ -50,3 +50,5 @@ Here are some screenshots of the movie app API in action:
 ![Movie Details](![image](https://user-images.githubusercontent.com/91125922/233215204-95f6f029-4065-4edb-a733-ee5826f870e4.png))
 *Details for "Movie"*
 
+![image](https://user-images.githubusercontent.com/91125922/233215510-88fb7cda-cc1a-4e9a-bded-8c6bc1bb993f.png)
+
