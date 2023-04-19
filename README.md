@@ -44,9 +44,6 @@ Here are some screenshots of the movie app API in action:
 ![image](https://user-images.githubusercontent.com/91125922/233215025-afda3f45-3bc4-4cb2-b0d1-732e3c024aea.png)
 *A swiper slider for browsing movie posters*
 
-![image](https://user-images.githubusercontent.com/91125922/233215113-e95fac43-4e2d-4f76-815b-4e12e0b88176.png)
-*All movies from api*
-
 ![image](https://user-images.githubusercontent.com/91125922/233215204-95f6f029-4065-4edb-a733-ee5826f870e4.png)
 *Details for "Movie"*
 
