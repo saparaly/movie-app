@@ -9,7 +9,7 @@ To get started with the movie app API, you will need to follow these steps:
 1. Clone this repository onto your local machine
 2. Install the dependencies using `npm install`
 3. Start the development server using `npm run dev`
-4. Visit `http://localhost:8080` in your browser to see the movie app in action
+4. Visit `http://localhost:[port]` in your browser to see the movie app in action
 
 ## Features
 
