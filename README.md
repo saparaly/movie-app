@@ -36,3 +36,17 @@ This movie app API is licensed under the MIT License. You are free to use, modif
 ## Conclusion
 
 That's all there is to it! With the movie app API, you can search for movies, view detailed information about them, and browse through movie posters using a swiper slider. It's a great way to learn more about Vue.js, Axios, and swiper, and to build your own movie app.
+
+## Screenshots
+
+Here are some screenshots of the movie app API in action:
+
+![Swiper Slider](![image](https://user-images.githubusercontent.com/91125922/233215025-afda3f45-3bc4-4cb2-b0d1-732e3c024aea.png))
+*A swiper slider for browsing movie posters*
+
+![Movie Items](![image](https://user-images.githubusercontent.com/91125922/233215113-e95fac43-4e2d-4f76-815b-4e12e0b88176.png))
+*All movies from api*
+
+![Movie Details](![image](https://user-images.githubusercontent.com/91125922/233215204-95f6f029-4065-4edb-a733-ee5826f870e4.png))
+*Details for "Movie"*
+
