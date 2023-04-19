@@ -1,29 +1,38 @@
-# films
+# Movie App API
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple movie app API that uses the OMDB API to fetch movie data. It is built using Vue.js, Axios, and a swiper slider.
 
-## Recommended IDE Setup
+## Getting Started
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+To get started with the movie app API, you will need to follow these steps:
 
-## Customize configuration
+1. Clone this repository onto your local machine
+2. Install the dependencies using `npm install`
+3. Start the development server using `npm run dev`
+4. Visit `http://localhost:8080` in your browser to see the movie app in action
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Features
 
-## Project Setup
+The movie app API allows you to search for movies by title and view detailed information about each movie, including its plot, cast, and ratings. Here are some of the features that are included:
 
-```sh
-npm install
-```
+- Search for movies by title
+- View detailed information about each movie
+- Use a swiper slider to browse through movie posters
+- Use router to navigate between different pages
 
-### Compile and Hot-Reload for Development
+## Dependencies
 
-```sh
-npm run dev
-```
+Here are the main dependencies that are used in this movie app API:
 
-### Compile and Minify for Production
+- Vue.js: a JavaScript framework for building user interfaces
+- Axios: a JavaScript library for making HTTP requests
+- Swiper: a JavaScript library for building sliders
+- Vue Router: a JavaScript library for building single-page applications
 
-```sh
-npm run build
-```
+## License
+
+This movie app API is licensed under the MIT License. You are free to use, modify, and distribute it as you see fit.
+
+## Conclusion
+
+That's all there is to it! With the movie app API, you can search for movies, view detailed information about them, and browse through movie posters using a swiper slider. It's a great way to learn more about Vue.js, Axios, and swiper, and to build your own movie app.
